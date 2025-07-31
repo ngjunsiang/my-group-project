@@ -8,4 +8,4 @@
 - Member 4
 
 # This is a J1 Summary Project
-- It is a simple MUD game about ...
+- It is a simple MUD game about nothing in particular
